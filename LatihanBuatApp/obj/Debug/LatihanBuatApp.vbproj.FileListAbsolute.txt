@@ -1,0 +1,58 @@
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.AssemblyReference.cache
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormPerpustakaan.resources
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.Resources.resources
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.exe.config
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.exe
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.pdb
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.xml
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.exe
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.xml
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.pdb
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormHapusKoleksi.resources
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormTambahKoleksi.resources
+C:\Users\user\Downloads\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormInfoKoleksi.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.AssemblyReference.cache
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormPerpustakaan.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormInfoKoleksi.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormTambahKoleksi.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormHapusKoleksi.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.Resources.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.GenerateResource.cache
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.CoreCompileInputs.cache
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.exe
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.pdb
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.exe.config
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.exe
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.pdb
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\LatihanBuatApp.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.Login.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.register.resources
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\Google.Protobuf.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\MySql.Data.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Buffers.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Memory.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\ZstdNet.dll
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\Google.Protobuf.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\MySql.Data.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Buffers.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Memory.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.vbproj.CopyComplete
+C:\Users\ARFIANO JORDHY\Downloads\Visual\LatihanBuatApp\LatihanBuatApp\obj\Debug\LatihanBuatApp.FormUpdateKoleksi.resources

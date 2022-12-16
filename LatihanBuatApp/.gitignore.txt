@@ -1,0 +1,4 @@
+.vs/
+LatihanBuatApp/bin
+LatihanBuatApp/obj/Debug
+LatihanBuatApp/obj/Release
